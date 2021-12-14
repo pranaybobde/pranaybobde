@@ -26,8 +26,9 @@
 
 
 
+<h3 align="left">IDE used:-</h3>
 
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff">
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff">  <img src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=Jupyter&logoColor=fff"> <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=Google%20Colab&logoColor=fff">  <img src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=fff">  <img src="https://img.shields.io/badge/-Spyder-FF0000?logo=Spyder%20IDE&logoColor=fff">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pranaybobde&count_private=true&show_icons=true&theme=radical)
 

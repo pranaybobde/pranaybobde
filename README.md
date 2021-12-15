@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello ✌️, I'm Pranay M Bobde</h1>
 
-<h3 align="center"> pursuing 🎓 B. Tech. in Artificial Intelligence (3rd year) 🎓 </h3>
+<h3 align="center"> Pursuing 🎓 B. Tech. in Artificial Intelligence (3rd year) 🎓 </h3>
 
 <h3 align="left">You can also connect with me on:</h3>
 

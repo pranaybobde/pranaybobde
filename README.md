@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranaybobde&label=Profile%20Visitors&color=129e00&style=plastic" alt="pranaybobde" /> </p>  -->
+
 <h1 align="center">Hello ✌️, I'm Pranay M Bobde</h1>
 
 <h3 align="center"> Pursuing 🎓 B. Tech. in Artificial Intelligence (3rd year) 🎓 </h3>

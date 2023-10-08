@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello ✌️, I'm Pranay M Bobde</h1>
 
-<h3 align="center"> Pursuing 🎓 B. Tech. in Artificial Intelligence (7th sem) 🎓 </h3>
+<h3 align="center"> Graduated with 🎓 B. Tech. in Artificial Intelligence in 2023 🎓 </h3>
 
 <h3 align="left">You can also connect with me on:</h3>
 
@@ -15,10 +15,10 @@
 
 
 
-- 🔭 I’m currently working on my communication skills and coding skills.
-- 🌱 I’m currently learning Machine Learning in Artificial Intelligence.
+- 🔭 I’m currently working on my problem sovling skills and coding skills.
+- 🌱 I’m more into Machine Learning, Deep Learning and Computer Vision in Artificial Intelligence.
 - 👯 I’m looking to explore new things in my own field.
-- 🤔 I’m looking for help in finding a Good Learning Internship.
+- 🤔 I’m looking for help in finding a Python-AI developer/Data Scientist.
 - 💬 Ask me about python and machine learning.
 - 📫 How to reach me:- through my social media handles
 - 😄 Pronouns:- He/Him

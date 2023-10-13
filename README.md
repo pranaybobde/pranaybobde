@@ -2,7 +2,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranaybobde&label=Profile%20Visitors&color=129e00&style=plastic" alt="pranaybobde" /> </p>  -->
 
-<h1 align="center">Hello ✌️, I'm Pranay M Bobde</h1>
+<h1 align="center">Hello ✌️, I'm Pranay M Bobade</h1>
 
 <h3 align="center"> Graduated with 🎓 B. Tech. in Artificial Intelligence in 2023 🎓 </h3>
 
@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on my problem sovling skills and coding skills.
 - 🌱 I’m more into Machine Learning, Deep Learning and Computer Vision in Artificial Intelligence.
 - 👯 I’m looking to explore new things in my own field.
-- 🤔 I’m looking for help in finding a Python-AI developer/Data Scientist.
+- 🤔 I’m looking for help in finding a job role as Python-AI developer/Data Scientist.
 - 💬 Ask me about python and machine learning.
 - 📫 How to reach me:- through my social media handles
 - 😄 Pronouns:- He/Him

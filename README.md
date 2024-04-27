@@ -16,10 +16,10 @@
 
 
 - 🔭 I’m currently working on my problem sovling skills and coding skills.
-- 🌱 I’m more into Machine Learning, Deep Learning and Computer Vision in Artificial Intelligence.
+- 🌱 I’m more into Machine Learning, Deep Learning and Computer Vision and Generative Artificial Intelligence.
 - 👯 I’m looking to explore new things in my own field.
-- 🤔 I’m looking for help in finding a job role as Python-AI developer/Data Scientist.
-- 💬 Ask me about python and machine learning.
+- 🤔 I’m working as AI/ML Developer.
+- 💬 Ask me about Python, Machine Learning, NLP, Computer Vision and GenAI.
 - 📫 How to reach me:- through my social media handles
 - 😄 Pronouns:- He/Him
 - ⚡ Fun fact:- Life is too short for learning all things.

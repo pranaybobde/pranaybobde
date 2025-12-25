@@ -1,43 +1,103 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Pranay M Bobade</h1>
+<h3 align="center">AI/ML Developer | GenAI Engineer | Backend Engineer</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranaybobde&label=Profile%20Visitors&color=129e00&style=plastic" alt="pranaybobde" /> </p>  -->
+<p align="center">
+🚀 2+ years of industry experience in AI/ML, Generative AI & Backend Development  
+🎓 B.Tech in Artificial Intelligence (2023)  
+</p>
 
-<h1 align="center">Hello ✌️, I'm Pranay M Bobade</h1>
+---
 
-<h3 align="center"> Graduated with 🎓 B. Tech. in Artificial Intelligence in 2023 🎓 </h3>
+## 👨‍💻 About Me
 
-<h3 align="left">You can also connect with me on:</h3>
+I am an **AI/ML Developer** with **2+ years of hands-on experience** building and deploying **production-grade AI systems**.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pranay%20M%20Bobde-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pranaybobde)](https://shorturl.at/BLQSY) <!--[![Instagram Badge](https://img.shields.io/badge/-@bobde_pranay-1ca0f1?style=social&logo=Instagram&logoColor=pink&link=https://www.instagram.com/pranaybobde/)](https://https://www.instagram.com/bobdepranay//)    [![Facebook Badge](https://img.shields.io/badge/-Pranay%20M%20Bobde-skyblue?style=social&logo=Facebook&logoColor=skyblue&link=https://www.facebook.com/pranaybobde)](https://www.facebook.com/pranay.bobde.16) --><!-- [![Twitter Badge](http://img.shields.io/badge/-@Pranay M Bobde-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/pranaybobde)](https://twitter.com/pranaybobde) -->  [![GitHub followers](https://img.shields.io/github/followers/pranaybobde?label=Github&style=social)](https://github.com/pranaybobde/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-Pranaybobade1-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:pranaybobade1@gmail.com)](mailto:pranaybobade1@gmail.com) 
+My expertise lies in **Generative AI, LLM-based applications, Speech AI, and backend development**, where I focus on turning research ideas into **scalable, real-world products**.
 
+I have worked extensively on **LLM systems, RAG pipelines, fine-tuning, AI microservices, and cloud-ready backend architectures**, collaborating closely with engineering and product teams.
 
+---
 
+## 🔥 What I Work On
 
+- 🤖 Generative AI & LLM-based systems
+- 🗣️ Speech AI (STT, TTS, Voice-to-Voice Agents)
+- 👤 Talking Head Avatars & Multimodal AI
+- 🧠 Machine Learning, Deep Learning & NLP
+- ⚙️ Backend Development for AI Platforms
+- 🧩 AI Microservices & SDK Development
 
+---
 
-- 🔭 I’m currently working on my problem sovling skills and coding skills.
-- 🌱 I’m more into Machine Learning, Deep Learning and Computer Vision and Generative Artificial Intelligence.
-- 👯 I’m looking to explore new things in my own field.
-- 🤔 I’m working as AI/ML Developer.
-- 💬 Ask me about Python, Machine Learning, NLP, Computer Vision and GenAI.
-- 📫 How to reach me:- through my social media handles
-- 😄 Pronouns:- He/Him
-- ⚡ Fun fact:- Life is too short for learning all things.
-- ❤️ Love to watch Movies/Web series and Play games.
+## 🚀 Key Projects & Experience
 
+### 🧠 Generative AI & LLM
+- Built **LLM-powered chatbots** (LMS & enterprise use cases)
+- Designed and implemented **RAG pipelines**
+- Fine-tuned LLMs for domain-specific tasks
+- Prompt engineering, evaluation & optimization
 
+### 🗣️ Speech & Multimodal AI
+- Developed **real-time Voice-to-Voice AI agents**
+- Built scalable **Text-to-Speech (TTS)** and **Speech-to-Text (STT)** systems
+- Created **Talking Head Avatar services**
 
+### ⚙️ Backend & Infrastructure
+- Designed **Python-based AI microservices**
+- Built **REST APIs** using FastAPI, Flask & Django (DRF)
+- Developed **Python SDKs** for AI services (T2T, TTS, STT)
+- Containerized services using **Docker & Docker Compose**
+- Worked with **MySQL, MongoDB, PostgreSQL & Redis**
+- Deployed services on **AWS**
+- Linux-based production environments
 
-<h3 align="left">IDE used:-</h3>
+---
 
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff">  <img src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=Jupyter&logoColor=fff"> <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=Google%20Colab&logoColor=fff">  <img src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=fff">  <img src="https://img.shields.io/badge/-Spyder-FF0000?logo=Spyder%20IDE&logoColor=fff"> <img src="[https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=MongoDB&logoColor=fff)"> 
-<img src="[https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=fff)">  <img src="[https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=fff)"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=fff"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=fff"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=fff"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=fff">
+## 🛠️ Tech Stack
 
+### 👨‍💻 Languages & Frameworks
+- **Python**
+- **FastAPI**
+- **Flask**
+- **Django (DRF)**
+- **LiveKit**
 
+### 🧠 AI / ML
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Generative AI
+- Fine-tuning & RAG
 
+### 🗄️ Databases & Caching
+- MySQL
+- MongoDB
+- Redis
+- PostgreSQL
 
+### ⚙️ DevOps & Tools
+- Git
+- Docker
+- Docker Compose
+- Linux (Ubuntu)
+- Windows
+- AWS
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=pranaybobde&count_private=true&show_icons=true&theme=radical)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRANAYBOBDE&show_icons=true&theme=radical)
+## 📫 Connect With Me
 
+- 💼 LinkedIn: [Pranay M Bobade](https://www.linkedin.com/in/pranay-m-bobade-a861991b6/)
+- 📧 Email: pranaybobade1@gmail.com
+- 🧑‍💻 GitHub: https://github.com/pranaybobde
+- 🤗 Hugging Face: https://huggingface.co/PranayBobade
+
+---
+
+## ⚡ Fun Facts
+
+- 🎬 Love movies & web series
+- 🎮 Enjoy gaming
+- 🧠 Believe learning never stops — just priorities evolve
